@@ -1,0 +1,44 @@
+# Sample REST API
+---
+## Project Structure
+
+- **cmd/**
+  - *binary1/*
+    - `main.go`
+    - `...`
+  - *binary2/*
+    - `main.go`
+    - `...`
+  - *...*
+
+- **pkg/**
+  - *library1/*
+    - `file1.go`
+    - `file2.go`
+    - `...`
+  - *library2/*
+    - `file1.go`
+    - `file2.go`
+    - `...`
+  - *...*
+
+## Description
+
+  Briefly describe the purpose of the project and its overall structure.
+  
+  ## Getting Started
+  
+  Include instructions on how to set up and run the project locally.
+  
+  ## Usage
+  
+  Provide examples or code snippets demonstrating how to use the API and libraries.
+  
+  ## Contributing
+  
+  Explain how others can contribute to the project.
+  
+  ## License
+  
+  Specify the project's license details.
+
